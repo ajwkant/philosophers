@@ -1,0 +1,667 @@
+    0 4 has taken a fork
+    0 4 has taken a fork
+    0 4 started eating
+    0 1 has taken a fork
+    0 1 has taken a fork
+    0 1 started eating
+    0 2 has taken a fork
+  150 4 started sleeping
+  150 5 has taken a fork
+  150 5 has taken a fork
+  150 5 started eating
+  150 1 started sleeping
+  150 2 has taken a fork
+  150 2 started eating
+  300 1 started thinking
+  300 2 started sleeping
+  300 5 started sleeping
+  300 1 has taken a fork
+  300 1 has taken a fork
+  300 1 started eating
+  300 4 started thinking
+  300 4 has taken a fork
+  300 4 has taken a fork
+  300 4 started eating
+  300 3 has taken a fork
+  450 2 started thinking
+  450 5 started thinking
+  450 3 has taken a fork
+  450 5 has taken a fork
+  450 5 has taken a fork
+  450 5 started eating
+  450 3 started eating
+  450 1 started sleeping
+  450 4 started sleeping
+  600 1 started thinking
+  600 5 started sleeping
+  600 4 started thinking
+  600 2 has taken a fork
+  600 2 has taken a fork
+  600 2 started eating
+  600 4 has taken a fork
+  600 4 has taken a fork
+  600 4 started eating
+  600 1 has taken a fork
+  600 3 started sleeping
+  750 5 started thinking
+  750 3 started thinking
+  750 3 has taken a fork
+  750 1 has taken a fork
+  750 1 started eating
+  750 4 started sleeping
+  750 2 started sleeping
+  750 3 has taken a fork
+  750 3 started eating
+  750 5 has taken a fork
+  900 2 started thinking
+  900 2 has taken a fork
+  900 3 started sleeping
+  900 4 started thinking
+  900 1 started sleeping
+  900 5 has taken a fork
+  900 5 started eating
+  900 2 has taken a fork
+  900 2 started eating
+ 1050 2 started sleeping
+ 1050 1 started thinking
+ 1050 4 has taken a fork
+ 1050 1 has taken a fork
+ 1050 1 has taken a fork
+ 1050 1 started eating
+ 1050 5 started sleeping
+ 1050 4 has taken a fork
+ 1050 4 started eating
+ 1050 3 started thinking
+ 1050 3 has taken a fork
+ 1200 4 started sleeping
+ 1200 5 started thinking
+ 1200 5 has taken a fork
+ 1200 1 started sleeping
+ 1200 2 started thinking
+ 1200 3 has taken a fork
+ 1200 3 started eating
+ 1200 5 has taken a fork
+ 1200 5 started eating
+ 1350 4 started thinking
+ 1350 1 started thinking
+ 1350 4 has taken a fork
+ 1350 2 has taken a fork
+ 1350 5 started sleeping
+ 1350 2 has taken a fork
+ 1350 2 started eating
+ 1350 1 has taken a fork
+ 1350 3 started sleeping
+ 1350 4 has taken a fork
+ 1350 4 started eating
+ 1500 4 started sleeping
+ 1500 5 started thinking
+ 1500 3 started thinking
+ 1500 5 has taken a fork
+ 1500 3 has taken a fork
+ 1500 3 has taken a fork
+ 1500 1 has taken a fork
+ 1500 1 started eating
+ 1500 2 started sleeping
+ 1500 3 started eating
+ 1650 4 started thinking
+ 1650 1 started sleeping
+ 1650 2 started thinking
+ 1650 2 has taken a fork
+ 1650 5 has taken a fork
+ 1650 3 started sleeping
+ 1650 5 started eating
+ 1650 2 has taken a fork
+ 1650 2 started eating
+ 1800 1 started thinking
+ 1800 3 started thinking
+ 1800 2 started sleeping
+ 1800 3 has taken a fork
+ 1800 3 has taken a fork
+ 1800 3 started eating
+ 1800 4 has taken a fork
+ 1800 1 has taken a fork
+ 1800 1 has taken a fork
+ 1800 1 started eating
+ 1800 5 started sleeping
+ 1950 1 started sleeping
+ 1950 5 started thinking
+ 1950 3 started sleeping
+ 1950 2 started thinking
+ 1950 2 has taken a fork
+ 1950 2 has taken a fork
+ 1950 2 started eating
+ 1950 4 has taken a fork
+ 1950 4 started eating
+ 2100 1 started thinking
+ 2100 1 has taken a fork
+ 2100 3 started thinking
+ 2100 3 has taken a fork
+ 2100 4 started sleeping
+ 2100 3 has taken a fork
+ 2100 3 started eating
+ 2100 5 has taken a fork
+ 2100 2 started sleeping
+ 2100 1 has taken a fork
+ 2100 1 started eating
+ 2251 3 started sleeping
+ 2251 4 started thinking
+ 2251 1 started sleeping
+ 2251 5 has taken a fork
+ 2251 5 started eating
+ 2251 2 started thinking
+ 2251 2 has taken a fork
+ 2251 2 has taken a fork
+ 2251 2 started eating
+ 2401 3 started thinking
+ 2401 4 has taken a fork
+ 2401 3 has taken a fork
+ 2401 1 started thinking
+ 2401 5 started sleeping
+ 2401 1 has taken a fork
+ 2401 1 has taken a fork
+ 2401 1 started eating
+ 2401 4 has taken a fork
+ 2401 4 started eating
+ 2401 2 started sleeping
+ 2551 1 started sleeping
+ 2551 2 started thinking
+ 2551 4 started sleeping
+ 2551 5 started thinking
+ 2551 5 has taken a fork
+ 2551 5 has taken a fork
+ 2551 5 started eating
+ 2551 3 has taken a fork
+ 2551 3 started eating
+ 2701 1 started thinking
+ 2701 1 has taken a fork
+ 2701 3 started sleeping
+ 2701 5 started sleeping
+ 2701 4 started thinking
+ 2701 1 has taken a fork
+ 2701 1 started eating
+ 2701 4 has taken a fork
+ 2701 4 has taken a fork
+ 2701 4 started eating
+ 2701 2 has taken a fork
+ 2851 4 started sleeping
+ 2851 3 started thinking
+ 2851 5 started thinking
+ 2851 5 has taken a fork
+ 2851 1 started sleeping
+ 2851 5 has taken a fork
+ 2851 5 started eating
+ 2851 2 has taken a fork
+ 2851 2 started eating
+ 3001 4 started thinking
+ 3001 1 started thinking
+ 3001 1 has taken a fork
+ 3001 3 has taken a fork
+ 3001 3 has taken a fork
+ 3001 4 has taken a fork
+ 3001 3 started eating
+ 3001 5 started sleeping
+ 3001 1 has taken a fork
+ 3001 1 started eating
+ 3001 2 started sleeping
+ 3151 1 started sleeping
+ 3151 3 started sleeping
+ 3151 5 started thinking
+ 3151 2 started thinking
+ 3151 2 has taken a fork
+ 3151 2 has taken a fork
+ 3151 2 started eating
+ 3151 4 has taken a fork
+ 3151 4 started eating
+ 3301 3 started thinking
+ 3301 4 started sleeping
+ 3301 5 has taken a fork
+ 3301 1 started thinking
+ 3301 5 has taken a fork
+ 3301 5 started eating
+ 3301 3 has taken a fork
+ 3301 3 has taken a fork
+ 3301 3 started eating
+ 3301 2 started sleeping
+ 3451 4 started thinking
+ 3451 5 started sleeping
+ 3451 1 has taken a fork
+ 3451 2 started thinking
+ 3451 3 started sleeping
+ 3451 4 has taken a fork
+ 3451 1 has taken a fork
+ 3451 1 started eating
+ 3451 4 has taken a fork
+ 3451 4 started eating
+ 3451 2 has taken a fork
+ 3601 3 started thinking
+ 3601 5 started thinking
+ 3601 4 started sleeping
+ 3601 2 has taken a fork
+ 3601 2 started eating
+ 3601 1 started sleeping
+ 3601 5 has taken a fork
+ 3601 5 has taken a fork
+ 3601 5 started eating
+ 3751 1 started thinking
+ 3751 5 started sleeping
+ 3751 3 has taken a fork
+ 3751 2 started sleeping
+ 3751 4 started thinking
+ 3751 1 has taken a fork
+ 3751 1 has taken a fork
+ 3751 1 started eating
+ 3751 4 has taken a fork
+ 3751 3 has taken a fork
+ 3751 3 started eating
+ 3901 5 started thinking
+ 3901 2 started thinking
+ 3901 1 started sleeping
+ 3901 2 has taken a fork
+ 3901 4 has taken a fork
+ 3901 4 started eating
+ 3901 2 has taken a fork
+ 3901 2 started eating
+ 3901 3 started sleeping
+ 4051 1 started thinking
+ 4051 1 has taken a fork
+ 4051 2 started sleeping
+ 4051 3 started thinking
+ 4051 3 has taken a fork
+ 4051 3 has taken a fork
+ 4051 3 started eating
+ 4051 1 has taken a fork
+ 4051 1 started eating
+ 4051 5 has taken a fork
+ 4051 4 started sleeping
+ 4201 2 started thinking
+ 4201 1 started sleeping
+ 4201 2 has taken a fork
+ 4201 4 started thinking
+ 4201 5 has taken a fork
+ 4201 5 started eating
+ 4201 2 has taken a fork
+ 4201 3 started sleeping
+ 4201 2 started eating
+ 4351 1 started thinking
+ 4351 2 started sleeping
+ 4351 4 has taken a fork
+ 4351 1 has taken a fork
+ 4351 4 has taken a fork
+ 4351 4 started eating
+ 4351 1 has taken a fork
+ 4351 3 started thinking
+ 4351 3 has taken a fork
+ 4351 1 started eating
+ 4351 5 started sleeping
+ 4501 1 started sleeping
+ 4501 5 started thinking
+ 4501 2 started thinking
+ 4501 4 started sleeping
+ 4501 3 has taken a fork
+ 4501 3 started eating
+ 4501 5 has taken a fork
+ 4501 5 has taken a fork
+ 4501 5 started eating
+ 4651 5 started sleeping
+ 4651 4 started thinking
+ 4651 1 started thinking
+ 4651 2 has taken a fork
+ 4651 1 has taken a fork
+ 4651 1 has taken a fork
+ 4651 1 started eating
+ 4651 4 has taken a fork
+ 4651 3 started sleeping
+ 4651 4 has taken a fork
+ 4651 4 started eating
+ 4802 5 started thinking
+ 4802 5 has taken a fork
+ 4802 3 started thinking
+ 4802 1 started sleeping
+ 4802 5 has taken a fork
+ 4802 5 started eating
+ 4802 2 has taken a fork
+ 4802 2 started eating
+ 4802 4 started sleeping
+ 4952 1 started thinking
+ 4952 2 started sleeping
+ 4952 3 has taken a fork
+ 4952 3 has taken a fork
+ 4952 3 started eating
+ 4952 4 started thinking
+ 4952 4 has taken a fork
+ 4952 5 started sleeping
+ 4952 1 has taken a fork
+ 4952 1 has taken a fork
+ 4952 1 started eating
+ 5102 2 started thinking
+ 5102 3 started sleeping
+ 5102 1 started sleeping
+ 5102 2 has taken a fork
+ 5102 2 has taken a fork
+ 5102 2 started eating
+ 5102 5 started thinking
+ 5102 4 has taken a fork
+ 5102 4 started eating
+ 5252 2 started sleeping
+ 5252 4 started sleeping
+ 5252 5 has taken a fork
+ 5252 5 has taken a fork
+ 5252 5 started eating
+ 5252 1 started thinking
+ 5252 3 started thinking
+ 5252 3 has taken a fork
+ 5252 3 has taken a fork
+ 5252 3 started eating
+ 5402 3 started sleeping
+ 5402 5 started sleeping
+ 5402 2 started thinking
+ 5402 2 has taken a fork
+ 5402 4 started thinking
+ 5402 4 has taken a fork
+ 5402 2 has taken a fork
+ 5402 1 has taken a fork
+ 5402 2 started eating
+ 5402 4 has taken a fork
+ 5402 4 started eating
+ 5552 3 started thinking
+ 5552 3 has taken a fork
+ 5552 5 started thinking
+ 5552 4 started sleeping
+ 5552 3 has taken a fork
+ 5552 1 has taken a fork
+ 5552 2 started sleeping
+ 5552 1 started eating
+ 5552 3 started eating
+ 5552 5 has taken a fork
+ 5702 4 started thinking
+ 5702 1 started sleeping
+ 5702 2 started thinking
+ 5702 2 has taken a fork
+ 5702 2 has taken a fork
+ 5702 3 started sleeping
+ 5702 2 started eating
+ 5702 5 has taken a fork
+ 5702 5 started eating
+ 5852 2 started sleeping
+ 5852 4 has taken a fork
+ 5852 1 started thinking
+ 5852 3 started thinking
+ 5852 5 started sleeping
+ 5852 3 has taken a fork
+ 5852 4 has taken a fork
+ 5852 4 started eating
+ 5852 1 has taken a fork
+ 5852 1 has taken a fork
+ 5852 1 started eating
+ 6002 2 started thinking
+ 6002 4 started sleeping
+ 6002 5 started thinking
+ 6002 5 has taken a fork
+ 6002 3 has taken a fork
+ 6002 3 started eating
+ 6002 1 started sleeping
+ 6002 5 has taken a fork
+ 6002 5 started eating
+ 6152 5 started sleeping
+ 6152 4 started thinking
+ 6152 4 has taken a fork
+ 6152 1 started thinking
+ 6152 1 has taken a fork
+ 6152 1 has taken a fork
+ 6152 1 started eating
+ 6152 3 started sleeping
+ 6152 2 has taken a fork
+ 6152 4 has taken a fork
+ 6152 4 started eating
+ 6302 3 started thinking
+ 6302 2 has taken a fork
+ 6302 2 started eating
+ 6302 1 started sleeping
+ 6302 5 started thinking
+ 6302 4 started sleeping
+ 6302 5 has taken a fork
+ 6302 5 has taken a fork
+ 6302 5 started eating
+ 6452 2 started sleeping
+ 6452 1 started thinking
+ 6452 3 has taken a fork
+ 6452 3 has taken a fork
+ 6452 3 started eating
+ 6452 4 started thinking
+ 6452 4 has taken a fork
+ 6452 5 started sleeping
+ 6452 1 has taken a fork
+ 6452 1 has taken a fork
+ 6452 1 started eating
+ 6602 2 started thinking
+ 6602 4 has taken a fork
+ 6602 4 started eating
+ 6602 2 has taken a fork
+ 6602 3 started sleeping
+ 6602 5 started thinking
+ 6602 1 started sleeping
+ 6602 2 has taken a fork
+ 6602 2 started eating
+ 6752 4 started sleeping
+ 6752 5 has taken a fork
+ 6752 5 has taken a fork
+ 6752 5 started eating
+ 6752 3 started thinking
+ 6752 2 started sleeping
+ 6752 3 has taken a fork
+ 6752 3 has taken a fork
+ 6752 3 started eating
+ 6752 1 started thinking
+ 6902 2 started thinking
+ 6902 5 started sleeping
+ 6902 2 has taken a fork
+ 6902 2 has taken a fork
+ 6902 2 started eating
+ 6902 3 started sleeping
+ 6902 4 started thinking
+ 6902 4 has taken a fork
+ 6902 4 has taken a fork
+ 6902 4 started eating
+ 6902 1 has taken a fork
+ 7052 2 started sleeping
+ 7052 1 has taken a fork
+ 7052 1 started eating
+ 7052 3 started thinking
+ 7052 3 has taken a fork
+ 7052 5 started thinking
+ 7052 5 has taken a fork
+ 7052 3 has taken a fork
+ 7052 3 started eating
+ 7052 4 started sleeping
+ 7202 2 started thinking
+ 7202 1 started sleeping
+ 7202 5 has taken a fork
+ 7202 5 started eating
+ 7202 4 started thinking
+ 7202 3 started sleeping
+ 7202 2 has taken a fork
+ 7202 2 has taken a fork
+ 7202 2 started eating
+ 7352 1 started thinking
+ 7352 4 has taken a fork
+ 7352 4 has taken a fork
+ 7352 4 started eating
+ 7352 1 has taken a fork
+ 7352 5 started sleeping
+ 7352 3 started thinking
+ 7352 3 has taken a fork
+ 7352 2 started sleeping
+ 7352 1 has taken a fork
+ 7352 1 started eating
+ 7502 5 started thinking
+ 7502 4 started sleeping
+ 7502 3 has taken a fork
+ 7502 3 started eating
+ 7502 5 has taken a fork
+ 7502 2 started thinking
+ 7502 1 started sleeping
+ 7502 5 has taken a fork
+ 7502 5 started eating
+ 7652 4 started thinking
+ 7652 2 has taken a fork
+ 7652 2 has taken a fork
+ 7652 2 started eating
+ 7652 3 started sleeping
+ 7653 1 started thinking
+ 7653 5 started sleeping
+ 7653 4 has taken a fork
+ 7653 4 has taken a fork
+ 7653 4 started eating
+ 7653 1 has taken a fork
+ 7802 3 started thinking
+ 7802 3 has taken a fork
+ 7802 2 started sleeping
+ 7802 1 has taken a fork
+ 7802 1 started eating
+ 7803 5 started thinking
+ 7803 5 has taken a fork
+ 7803 3 has taken a fork
+ 7803 3 started eating
+ 7803 4 started sleeping
+ 7953 1 started sleeping
+ 7953 2 started thinking
+ 7953 5 has taken a fork
+ 7953 5 started eating
+ 7953 4 started thinking
+ 7953 3 started sleeping
+ 7953 2 has taken a fork
+ 7953 2 has taken a fork
+ 7953 2 started eating
+ 8103 1 started thinking
+ 8103 4 has taken a fork
+ 8103 1 has taken a fork
+ 8103 4 has taken a fork
+ 8103 4 started eating
+ 8103 5 started sleeping
+ 8103 3 started thinking
+ 8103 3 has taken a fork
+ 8103 2 started sleeping
+ 8103 1 has taken a fork
+ 8103 1 started eating
+ 8253 5 started thinking
+ 8253 5 has taken a fork
+ 8253 4 started sleeping
+ 8253 3 has taken a fork
+ 8253 3 started eating
+ 8253 2 started thinking
+ 8253 1 started sleeping
+ 8253 5 has taken a fork
+ 8253 5 started eating
+ 8403 4 started thinking
+ 8403 3 started sleeping
+ 8403 2 has taken a fork
+ 8403 2 has taken a fork
+ 8403 2 started eating
+ 8403 1 started thinking
+ 8403 5 started sleeping
+ 8403 1 has taken a fork
+ 8403 4 has taken a fork
+ 8403 4 has taken a fork
+ 8403 4 started eating
+ 8553 3 started thinking
+ 8553 3 has taken a fork
+ 8553 2 started sleeping
+ 8553 1 has taken a fork
+ 8553 1 started eating
+ 8553 5 started thinking
+ 8553 4 started sleeping
+ 8553 3 has taken a fork
+ 8553 3 started eating
+ 8553 5 has taken a fork
+ 8703 2 started thinking
+ 8703 5 has taken a fork
+ 8703 5 started eating
+ 8703 1 started sleeping
+ 8703 4 started thinking
+ 8703 2 has taken a fork
+ 8703 2 has taken a fork
+ 8703 2 started eating
+ 8703 3 started sleeping
+ 8853 1 started thinking
+ 8853 5 started sleeping
+ 8853 1 has taken a fork
+ 8853 4 has taken a fork
+ 8853 4 has taken a fork
+ 8853 4 started eating
+ 8853 3 started thinking
+ 8853 3 has taken a fork
+ 8853 2 started sleeping
+ 8853 1 has taken a fork
+ 8853 1 started eating
+ 9003 5 started thinking
+ 9003 5 has taken a fork
+ 9003 4 started sleeping
+ 9003 3 has taken a fork
+ 9003 3 started eating
+ 9003 2 started thinking
+ 9003 1 started sleeping
+ 9003 5 has taken a fork
+ 9003 5 started eating
+ 9153 4 started thinking
+ 9153 3 started sleeping
+ 9153 2 has taken a fork
+ 9153 2 has taken a fork
+ 9153 2 started eating
+ 9153 1 started thinking
+ 9153 4 has taken a fork
+ 9153 4 has taken a fork
+ 9153 4 started eating
+ 9153 1 has taken a fork
+ 9153 5 started sleeping
+ 9303 2 started sleeping
+ 9303 1 has taken a fork
+ 9303 1 started eating
+ 9303 3 started thinking
+ 9303 3 has taken a fork
+ 9303 5 started thinking
+ 9303 5 has taken a fork
+ 9303 4 started sleeping
+ 9303 3 has taken a fork
+ 9303 3 started eating
+ 9453 2 started thinking
+ 9453 1 started sleeping
+ 9453 4 started thinking
+ 9453 3 started sleeping
+ 9454 5 has taken a fork
+ 9454 5 started eating
+ 9454 2 has taken a fork
+ 9454 2 has taken a fork
+ 9454 2 started eating
+ 9603 1 started thinking
+ 9604 3 started thinking
+ 9604 5 started sleeping
+ 9604 4 has taken a fork
+ 9604 4 has taken a fork
+ 9604 4 started eating
+ 9604 1 has taken a fork
+ 9604 2 started sleeping
+ 9604 3 has taken a fork
+ 9604 1 has taken a fork
+ 9604 1 started eating
+ 9754 5 started thinking
+ 9754 2 started thinking
+ 9754 5 has taken a fork
+ 9754 5 has taken a fork
+ 9754 5 started eating
+ 9754 4 started sleeping
+ 9754 3 has taken a fork
+ 9754 3 started eating
+ 9754 1 started sleeping
+ 9904 1 started thinking
+ 9904 3 started sleeping
+ 9904 1 has taken a fork
+ 9904 1 has taken a fork
+ 9904 5 started sleeping
+ 9904 2 has taken a fork
+ 9904 4 started thinking
+ 9904 4 has taken a fork
+ 9904 4 has taken a fork
+ 9904 4 started eating
+ 9904 1 started eating
+10054 5 started thinking
+10
